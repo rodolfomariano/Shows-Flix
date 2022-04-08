@@ -1,7 +1,7 @@
 # Shows-Flix
 
 <p align="center">
-  <img width="90%" src="https://firebasestorage.googleapis.com/v0/b/imagens-3dce0.appspot.com/o/Shows-Fliz.png?alt=media&token=f7d68126-4057-41f4-ba2e-f86ccf537aa8">
+  <img width="90%" src="https://firebasestorage.googleapis.com/v0/b/imagens-3dce0.appspot.com/o/Shows-Fliz-min.png?alt=media&token=f2e6cba0-7e20-426d-bb01-5c92128c52fa">
 </p>
 
 ## :satellite: Technologies
